@@ -1,6 +1,6 @@
 ## About Me 👋
 
-- 🔭 I’m currently working on delivering technical training sessions, developing solutions, offering career coaching and consulting on Microsoft Azure, Power BI, Microsoft Fabric, Data Science, and Cloud Technologies.
+- 🔭 I’m currently working on delivering technical training sessions, developing solutions, offering career coaching and consulting on Microsoft Azure, Power BI, Microsoft Fabric, Data Science, Data Analytics, Database Administration, and Cloud Technologies.
 - 🌱 I’m currently learning advanced studies on Generative AI and Automation, as well as advanced cloud-based solutions on Data Analytics techniques.
 - 👯 I’m looking to collaborate on projects related to data analytics, data science, cloud solutions, AI, and automation of business processes.
 - 🤔 I’m looking for help with academic research and publishing research papers in Data Platforms and Cloud Technologies.
