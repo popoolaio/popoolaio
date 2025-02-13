@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 - 🔭 I’m currently working on delivering technical training sessions, developing solutions, offering career coaching and consulting on Microsoft Azure, Power BI, Microsoft Fabric, Data Science, and Cloud Technologies.
 - 🌱 I’m currently learning advanced studies on Generative AI and Automation, as well as advanced cloud-based solutions on Data Analytics techniques.
@@ -16,15 +16,22 @@
 ### 🏆 Technical Skills
 - **Cloud Technologies:** Microsoft Azure
 - **Data Analytics & Visualization:** Power BI, Microsoft Fabric, SQL, Python (Pandas, Matplotlib, Seaborn, Plotly)  
-- **Big Data & Data Engineering:** Azure Synapse Analytics, Data Lake, Databricks, Datawarehouse  
+- **Big Data & Data Engineering:** Azure Synapse Analytics, Data Lake, Data Warehouse  
 - **Software & Tools:** Microsoft Excel, SPSS
 
 ### 🎓 Certifications
-- Microsoft Certified Trainer (MCT)  
-- Microsoft Azure Data Fundamentals (DP-900)  
-- Microsoft Power BI Data Analyst (PL-300)  
-- Designing and Implementing a Data Science Solution on Azure (DP-600)  
-
+- Microsoft Certified Trainer (MCT)
+- Fabrics Analytics Engineer Associate (DP-600)
+- Power BI Data Analyst Associate (PL-300)
+- Azure Data Engineer Associate (DP-203)
+- Azure Database Administrator Associate (DP-300)
+- Azure Data Fundamentals (DP-900)
+- Azure Fundamentals (AZ-900)
+- Microsoft Office Specialist: Excel Associate (MO-200)
+- Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft 365 Fundamentals (MS-900)
+- Power Platform Fundamentals (PL-900)
+- Microsoft Azure Administrator (AZ-104)
 
 ### 🔧 Tools & Technologies
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
