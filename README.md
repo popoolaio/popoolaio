@@ -11,13 +11,12 @@
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Skills, Certifications, Tools & Technologies 
 
 ### 🏆 Technical Skills
 - **Cloud Technologies:** Microsoft Azure
 - **Data Analytics & Visualization:** Power BI, Microsoft Fabric, SQL, Python (Pandas, Matplotlib, Seaborn, Plotly)  
 - **Big Data & Data Engineering:** Azure Synapse Analytics, Data Lake, Databricks, Datawarehouse  
-- **Artificial Intelligence & Machine Learning:** Azure Machine Learning, OpenAI, Cognitive Services  
 - **Software & Tools:** Microsoft Excel, SPSS
 
 ### 🎓 Certifications
@@ -36,6 +35,9 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-1B1464?style=for-the-badge&logo=spss&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![StreamYard](https://img.shields.io/badge/StreamYard-0A66C2?style=for-the-badge&logo=streamyard&logoColor=white)
+
 
 ---
 🌍 Passionate about Data, AI, and Cloud Technologies. Let's connect and innovate together!
