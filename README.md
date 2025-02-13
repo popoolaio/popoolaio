@@ -37,7 +37,7 @@
 ![SPSS](https://img.shields.io/badge/SPSS-1B1464?style=for-the-badge&logo=spss&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![StreamYard](https://img.shields.io/badge/StreamYard-0A66C2?style=for-the-badge&logo=streamyard&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/popoolaio)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 
 
